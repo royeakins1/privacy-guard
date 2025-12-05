@@ -1,0 +1,5 @@
+streamlit 
+pandas 
+googlesearch-python 
+selenium 
+webdriver-manager
